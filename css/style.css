@@ -1,0 +1,174 @@
+@font-face {
+  font-family: NativeBrush;
+  src: url('../fonts/Native_Brush.ttf');
+}
+@font-face {
+  font-family: AcuminVariableConcept;
+  src: url('../fonts/AcuminVariableConcept.ttf');
+}
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: AcuminVariableConcept, 'Arial', 'sans-serif';
+}
+
+body{
+  display: grid;
+  /* height: 100vh; */
+  background-image: linear-gradient(0deg, rgba(226, 237, 247, 0.9), rgba(201, 201, 204, 0.9)), url("../img/web_background.svg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: top center; 
+  padding-bottom:60px;   /*footer height*/
+}
+
+#nav {
+  font-family: NativeBrush;
+  font-size: 2.5rem !important;
+  background: #54bd84;
+  color: #eee;
+  padding: 0.3em;
+  font-size: 1.5em;
+}
+
+.titleFont{
+  font-family: NativeBrush;
+  color: white;
+  font-size:5.5rem
+}
+header a h2{
+  font-family: NativeBrush;
+}
+.popup_text{
+  color: white;
+}
+
+.swal2-container div{
+  background-color: #54bd84;
+}
+.swal2-confirm{
+  background-color:#195836 !important;
+  color: white !important;
+}
+#nav a{
+  text-decoration: none;
+  color: #eee;
+}
+#characterObj{
+  width: 100%;
+}
+
+main {
+  display: grid;
+  /* grid-template-columns: repeat(auto-fill, minmax(30em, 1fr)); */
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  margin: 2em 20% 0 20%;
+  gap: 0.5em;
+}
+#characterContainer{
+  grid-column-end: -3;
+  grid-column-start: 1;
+}
+#characterContainer, #controls {
+  display:flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+#controls{
+  max-width: 20em;
+  grid-column-start: -3;
+  flex-direction: column;
+  place-items: center;
+  grid-column-end: -1;
+}
+
+#controls button {
+  height: 3rem;
+  width: 100%;
+  margin: 0.4em;
+  color: #eee;
+  background-color: #54bd84;
+  font-size: 1.5rem;
+  border-left: 10px solid #195836;
+  border-bottom: 4px solid #195836;
+}
+
+#controls button:hover {
+  cursor:pointer;
+  background-color: #049c49;
+  border-left: 1px solid #195836;
+}
+
+.clickedButton {
+  cursor:pointer;
+  background-color: #049c49 !important;
+  border-left: 1px solid #195836 !important;
+}
+
+footer{
+  position:absolute;
+  display: flex;
+  place-items: center;
+  width: 100vw;
+  bottom:0;
+  height:60px;   /* Height of the footer */
+  background:#005913;
+  color:#fff;
+}
+footer p{
+  margin: 10px;
+}
+.footer_text a{
+  color:white;
+}
+#footer_link_1{
+  text-decoration:underline;
+  color: white;
+  cursor: pointer;
+}
+#authors_div p a{
+  text-decoration:underline;
+  color: white;
+}
+.white_text{
+  color: white;
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 468px) 
+  and (max-device-width: 1024px)  
+  and (-webkit-min-device-pixel-ratio: 1) {
+    main {
+      display: grid;
+      margin: 1em 4% 0 4%;
+    }
+}
+
+@media only screen 
+  and (min-device-width: 100px) 
+  and (max-device-width: 468px)  
+  and (-webkit-min-device-pixel-ratio: 1) {
+    main {
+      display: grid;
+      margin: 1em 1% 0 1%;
+    }
+
+    #characterContainer{
+      grid-column-end: -1;
+      grid-column-start: 1;
+    }
+
+    #controls{
+      grid-column-start: 1;
+      display: flex;
+      flex-direction: revert;
+      flex-wrap: wrap;
+      margin: auto;
+    }
+
+    #controls button{
+      width: 40%;
+    }
+}
