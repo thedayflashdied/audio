@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.6.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1080 1080" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#6F471C;}
+	.st1{fill:#FFE38C;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:url(#left-eye-ball_00000011732683773263648710000004395153168611820188_);}
+	.st4{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st5{fill:url(#right-eye-ball_00000094586638695572916860000007961471879424448154_);}
+</style>
+<g id="cheekyMonkeyGroup">
+	<g id="faceGroup">
+		<g id="ears">
+			<g id="left-ear">
+				<ellipse class="st0" cx="156.9" cy="451.7" rx="156.9" ry="183.72"/>
+				
+					<ellipse transform="matrix(0.8237 -0.567 0.567 0.8237 -252.4889 165.0253)" class="st1" cx="139.16" cy="488.59" rx="95.25" ry="126.19"/>
+			</g>
+			<g id="right-ear">
+				<ellipse class="st0" cx="923.1" cy="451.7" rx="156.9" ry="183.72"/>
+				
+					<ellipse transform="matrix(0.567 -0.8237 0.8237 0.567 4.9452 986.564)" class="st1" cx="940.84" cy="488.58" rx="126.19" ry="95.25"/>
+			</g>
+		</g>
+		<path id="hair" class="st0" d="M923.02,512.19c0-157.68-103.2-291.98-248.02-343.66l22.45-52.22l-42.64,16.99l24.55-57.13
+			l-181.92,72.57c-187.92,21.9-333.52,176.23-333.52,363.46c0.07,78.69,26.22,155.14,74.36,217.39
+			c-7.79,14.56-11.93,30.8-12.08,47.31c0,97.59,147.71,176.7,329.94,176.7S886,874.48,886,776.89c-0.38-23.9-8.59-47.01-23.38-65.79
+			C902.14,652.31,923.17,583.03,923.02,512.19z"/>
+		<path id="face" class="st1" d="M880.85,532.45c0-121.83-82.08-220.58-183.4-220.58c-60.41,0-114.03,35.23-147.47,89.48
+			c-33.59-47.86-83.95-78.33-140.3-78.33c-101.33,0-183.4,98.76-183.4,220.58c-0.6,54.59,17,107.83,50.04,151.29
+			c-11.45,21.28-17.5,45.05-17.62,69.21c0,112.4,132.97,203.44,297.05,203.44s297.05-91.04,297.05-203.44
+			c-0.25-27.99-8.35-55.34-23.38-78.96C863.29,641.51,881.42,587.7,880.85,532.45z"/>
+		<g id="mouth">
+			<g id="happy-mouth">
+				<path class="st0" d="M726.91,740.25c-15.94,0.04-28.84,12.98-28.84,28.92c0.05,1.23,0.18,2.45,0.39,3.66
+					c-79.26,77.62-206.43,76.29-284.05-2.97c-0.18-0.18-0.35-0.36-0.53-0.54c3.83-15.46-5.6-31.1-21.06-34.93
+					c-15.46-3.83-31.1,5.6-34.93,21.06c-3.83,15.46,5.6,31.1,21.06,34.93c2.22,0.55,4.5,0.83,6.79,0.85
+					c89.32,95.11,238.83,99.81,333.94,10.49c1.41-1.32,2.8-2.67,4.18-4.02c1.01,0,2.03,0,3.04,0c15.95,0.83,29.55-11.43,30.38-27.38
+					c0.83-15.95-11.43-29.55-27.38-30.38c-1-0.05-2-0.05-3,0V740.25z"/>
+			</g>
+		</g>
+		<g id="left-eye">
+			<g id="left-whitearea">
+				<ellipse id="left-eye-lash" cx="387.38" cy="559.11" rx="101.95" ry="135.86"/>
+				<ellipse id="left-eye-white" class="st2" cx="387.38" cy="570.73" rx="101.95" ry="135.86"/>
+			</g>
+			<rect id="left-eyeBrows" x="310.69" y="389.89" width="155.89" height="15.59"/>
+			<g id="left-normaleye">
+				
+					<linearGradient id="left-eye-ball_00000120528977672204938770000004094521569710992776_" gradientUnits="userSpaceOnUse" x1="332.8232" y1="520.4724" x2="441.9456" y2="520.4724" gradientTransform="matrix(1 0 0 -1 0 1082)">
+					<stop  offset="0" style="stop-color:#FFFFFF"/>
+					<stop  offset="0" style="stop-color:#0589AA"/>
+					<stop  offset="0.99" style="stop-color:#0F5BA9"/>
+					<stop  offset="1" style="stop-color:#3C3C3C"/>
+					<stop  offset="1" style="stop-color:#038BAA"/>
+					<stop  offset="1" style="stop-color:#384C9F"/>
+					<stop  offset="1" style="stop-color:#6F471C"/>
+				</linearGradient>
+				
+					<ellipse id="left-eye-ball" style="fill:url(#left-eye-ball_00000120528977672204938770000004094521569710992776_);" cx="387.38" cy="561.53" rx="54.56" ry="74.75"/>
+				<ellipse id="left-inner-eye-ball" cx="387.38" cy="563.79" rx="38.58" ry="51.52"/>
+				<circle id="left-b-white-circle" class="st2" cx="391.98" cy="517.88" r="19.49"/>
+				<circle id="left-white-circle" class="st2" cx="411.47" cy="583.66" r="6.94"/>
+			</g>
+			<g id="left-deadEye">
+				<ellipse class="st4" cx="388.01" cy="564.57" rx="54.33" ry="74.51"/>
+				<ellipse class="st4" cx="388.01" cy="566.83" rx="38.43" ry="51.37"/>
+				<ellipse class="st4" cx="388.01" cy="566.83" rx="21.12" ry="28.22"/>
+				<ellipse class="st4" cx="388.01" cy="566.83" rx="11.61" ry="15.51"/>
+			</g>
+		</g>
+		<g id="right-eye">
+			<g id="right-whitearea">
+				<ellipse id="right-eye-lash" cx="709.14" cy="559.11" rx="101.95" ry="135.86"/>
+				<ellipse id="right-eye-white" class="st2" cx="709.14" cy="570.73" rx="101.95" ry="135.86"/>
+			</g>
+			<g id="right-normaleye">
+				
+					<linearGradient id="right-eye-ball_00000134247517217591532660000015561238269656419214_" gradientUnits="userSpaceOnUse" x1="654.5784" y1="520.4724" x2="763.7008" y2="520.4724" gradientTransform="matrix(1 0 0 -1 0 1082)">
+					<stop  offset="0" style="stop-color:#FFFFFF"/>
+					<stop  offset="0" style="stop-color:#0589AA"/>
+					<stop  offset="0.99" style="stop-color:#0F5BA9"/>
+					<stop  offset="1" style="stop-color:#3C3C3C"/>
+					<stop  offset="1" style="stop-color:#038BAA"/>
+					<stop  offset="1" style="stop-color:#384C9F"/>
+					<stop  offset="1" style="stop-color:#6F471C"/>
+				</linearGradient>
+				
+					<ellipse id="right-eye-ball" style="fill:url(#right-eye-ball_00000134247517217591532660000015561238269656419214_);" cx="709.14" cy="561.53" rx="54.56" ry="74.75"/>
+				<ellipse id="right-inner-eye-ball" cx="709.14" cy="563.79" rx="38.58" ry="51.52"/>
+				<circle id="right-b-white-circle" class="st2" cx="713.66" cy="517.88" r="19.49"/>
+				<circle id="right-white-circle" class="st2" cx="733.15" cy="583.66" r="6.94"/>
+			</g>
+			<rect id="right-eyeBrows" x="649.43" y="388.65" width="155.89" height="15.59"/>
+			<g id="right-deadEye">
+				<ellipse class="st4" cx="706.26" cy="563.79" rx="54.33" ry="74.51"/>
+				<ellipse class="st4" cx="706.26" cy="565.97" rx="38.43" ry="51.37"/>
+				<ellipse class="st4" cx="706.26" cy="565.97" rx="21.12" ry="28.22"/>
+				<ellipse class="st4" cx="706.26" cy="565.97" rx="11.61" ry="15.51"/>
+			</g>
+		</g>
+		<g id="cheeks">
+			<g id="nose">
+				<g id="nose-2">
+					<path class="st0" d="M622.86,705.49c-3.98-23.38-18.24-40.38-35.39-40.38c-17.15,0-31.18,17.23-35.31,40.38H622.86z"/>
+					<path class="st0" d="M559.56,705.49c-3.9-23.38-18.16-40.38-35.31-40.38c-17.15,0-31.18,17.23-35.31,40.38H559.56z"/>
+					<path class="st1" d="M622.86,711.88c-3.98-23.38-18.24-40.38-35.39-40.38c-17.15,0-31.18,17.23-35.31,40.38H622.86z"/>
+					<path class="st1" d="M559.56,711.88c-3.9-23.38-18.16-40.38-35.31-40.38c-17.15,0-31.18,17.23-35.31,40.38H559.56z"/>
+				</g>
+				<g id="nose-hole">
+					<ellipse class="st0" cx="527.92" cy="688.27" rx="12.16" ry="6.08"/>
+				</g>
+				<ellipse class="st0" cx="582.56" cy="688.27" rx="12.16" ry="6.08"/>
+			</g>
+			<g id="right-cheek">
+				<path class="st0" d="M697.45,655.45c-50.27,0-93.53,22.84-115.2,56.12h230.4C791.68,678.29,747.8,655.45,697.45,655.45z"/>
+				<path class="st1" d="M697.45,663.71c-50.27,0-93.53,22.84-115.2,56.12h230.4C791.68,686.55,747.8,663.71,697.45,663.71z"/>
+			</g>
+			<g id="left-cheek">
+				<path class="st0" d="M409.75,655.45c-50.27,0-93.53,22.84-115.2,56.12h230.4C503.29,678.29,460.11,655.45,409.75,655.45z"/>
+				<path class="st1" d="M409.75,663.71c-50.27,0-93.53,22.84-115.2,56.12h230.4C503.29,686.55,460.11,663.71,409.75,663.71z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
